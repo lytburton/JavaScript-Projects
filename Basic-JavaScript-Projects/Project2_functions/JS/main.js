@@ -9,3 +9,9 @@ function sentence(){ //this function changes the paragraph text to a concatenate
     var bestSongs = songs += " the most?";
     document.getElementById("concatenate").innerHTML = bestSongs;
 }
+
+function capitalize(){
+    var upper = "uppercase";
+    var upper = upper.toUpperCase();
+    document.getElementById("lower").innerHTML = upper;
+}

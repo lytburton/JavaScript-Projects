@@ -41,3 +41,11 @@ var state = state.fontcolor("green"); //defining new color for the string variab
 document.write(state); //printing variable string to the browser window with a different color
 
 43 - 12; // an example of an expression
+
+var largeText = "This is a large sentence";
+
+var largeText = largeText.fontsize("50px");
+
+function larger(){
+    document.getElementById("smaller").innerHTML = largeText;
+}
