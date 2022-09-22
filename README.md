@@ -8,7 +8,7 @@ This is a collection of small JavaScript projects I have completed.
 * [Calculator](https://github.com/lytburton/JavaScript-Projects/releases/tag/v3.0)
 
 ## Pizza Menu
-This project allows users to select from various sizes of pizzas and add custom toppings. The program takes in this data as input and returns a total purchase price.
+This project allows users to select from various sizes of pizzas and add custom toppings. The program takes in user selection data as input and returns a total purchase price.
 
 ![Pizza Menu](https://github.com/lytburton/JavaScript-Projects/blob/main/pizza.png?raw=true)
 
